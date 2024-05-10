@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=25&pause=1000&vCenter=true&random=false&width=435&lines=Hey+I+am+the+founder+of+Cone+on+a+Chair+Collective;Hey+I'm+a+Game+Developer;I+am+studying+to+go+to+MIT;I+play+way+to+many+games;I+go+by+Cone;My+business+email+is+ConeonaChairCollective%40gmail.com)](https://git.io/typing-svg)
 
-https://img.shields.io/youtube/channel/subscribers/UC5WXvvOVE-xNEWdy8YOS36g?style=flat&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40-cones ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5WXvvOVE-xNEWdy8YOS36g?style=flat&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40-cones)
+<object alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC5WXvvOVE-xNEWdy8YOS36g?style=flat&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40-cones"> ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5WXvvOVE-xNEWdy8YOS36g?style=flat&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40-cones)
 
 
 Hello I'm the 13 year old founder of Cone on a Chair Collective known by my alias Cone or just my real name Elijah
